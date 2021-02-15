@@ -1,2 +1,2 @@
 # alfbae.github.io
-Dr. Alf Bae Portfolio Porject
+Dr. Alf Bae Portfolio Porjects
